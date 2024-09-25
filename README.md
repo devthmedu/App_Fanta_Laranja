@@ -1,4 +1,7 @@
-# Site Fanta
+# Site FANTA
+
+![fanta](https://github.com/user-attachments/assets/e6456509-ca64-4323-bf82-21c4a88ee1f1)
+
 
 ## Descrição do Projeto
 
